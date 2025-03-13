@@ -3,3 +3,5 @@ This is a Lag Reducer extension if you have stuff open and your not using it it 
 
 
           NOT DONE YET.
+
+To see the version history Click on Version.md
